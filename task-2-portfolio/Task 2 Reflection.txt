@@ -1,0 +1,12 @@
+Task 2 Reflection: Digital Portfolio
+
+For my digital portfolio, I chose to set up profiles on GitHub, Stack Overflow, and
+Kaggle. I selected GitHub because it is the industry standard for version control
+and hosting code; over the next four years, I plan to use it to securely store my
+college assignments and showcase the Python and C++ projects I am building. I
+created a Stack Overflow account because it is the largest community for
+developers, and I will rely on it heavily to troubleshoot syntax errors and figure
+out complex logic. Finally, I chose Kaggle because it is a massive hub for datasets.
+While I am just starting out, I plan to use Kaggle in the future to pull historical
+datasets to analyze data trends. Together, these three platforms give me a solid
+foundation.

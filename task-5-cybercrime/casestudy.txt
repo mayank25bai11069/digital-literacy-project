@@ -1,0 +1,20 @@
+Case Study: UPI "Receive Money" Fraud
+
+UPI (Unified Payments Interface) fraud is a prevalent cybercrime in India where scammers trick individuals into authorizing outgoing payments under the guise of receiving funds.
+
+How It Happens (Step-by-Step):
+
+The Hook: A college student lists a used item (like a textbook or a bike) for sale on an online marketplace like OLX.
+
+The Contact: The scammer poses as an eager buyer, agreeing to the price immediately without negotiation to create a sense of excitement and urgency.
+
+The Trap: The scammer claims they are sending the money via a UPI app but instead sends a "Collect Request" or a malicious QR code.
+
+The Deception: The scammer calls the student, rushing them to scan the code or approve the request, falsely claiming that entering the UPI PIN is required to receive the money into their bank account.
+
+The Theft: The student enters their PIN, and funds are instantly deducted from their account and transferred to the scammer.
+
+Who is Targeted: College students living in hostels and young adults who frequently use digital payments for daily transactions, buying/selling used goods, or splitting bills.
+
+The Consequences: Victims face immediate, often unrecoverable financial loss. For a college student, losing a month's allowance or hostel rent money causes severe financial strain, emotional distress, and a lasting loss of trust in digital platforms.
+

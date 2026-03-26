@@ -1,0 +1,38 @@
+Draft 1: Extension Request to Professor
+Subject: Request for Deadline Extension - CSE0001 Assignment - Mayank Verma
+
+Dear Professor,
+
+I am writing to respectfully request a short extension for the upcoming Digital Literacy project submission. Due to some unexpected overlaps with a recent hackathon schedule, I have fallen slightly behind on finalizing my report.
+
+Would it be possible to submit my assignment by Saturday, March 28th? I have already completed the practical tasks and just need a little extra time to ensure my written reflections are up to standard.
+
+Thank you very much for your time and understanding. I look forward to your response.
+
+Best regards,
+
+Mayank Verma
+B.Tech First Year
+Reg No: 25BAI11069
+
+
+
+Draft 2: Internship Interest to Coordinator
+Subject: Summer Internship Application - Software Engineering - Mayank Verma
+
+Dear Internship Coordinator,
+
+I hope you are having a great week.
+
+I am writing to express my strong interest in the Summer Software Engineering Internship position at Google. As a first-year B.Tech engineering student at VIT Bhopal University, I have been actively building my foundational programming skills in C++ and Python, and I am incredibly eager to apply this knowledge in a professional, fast-paced environment.
+
+I am particularly drawn to your team's recent work of continuous innovation in massive scale software systems and artificial intelligence, and I would love the opportunity to contribute while learning from your experienced engineers.
+
+I have attached my resume for your review, and you can view my current projects on my GitHub profile: https://github.com/mayank25bai11069
+
+Thank you for your time and consideration. I hope to hear from you soon.
+
+Sincerely,
+
+Mayank Verma
+Mayank.25bai11069@vitbhopal.ac.in

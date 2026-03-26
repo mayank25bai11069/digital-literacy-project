@@ -1,0 +1,26 @@
+Part B: The Prevention Checklist
+
+Stay Safe Online: 8-Point Cybercrime Prevention Checklist
+
+Never enter your UPI PIN to receive money: Remember that a UPI PIN is only required when you are sending money, never when receiving it.
+
+Verify the receiver's details before paying: Always double-check the VPA (Virtual Payment Address) and the registered name that pops up before hitting confirm on any transaction.
+
+Use strong, unique passwords: Avoid using the same password for your college portal, personal email, and banking apps.
+
+Enable Two-Factor Authentication (2FA): Turn on 2FA for all critical accounts (Gmail, GitHub, LinkedIn) to add an extra layer of security beyond just a password.
+
+Beware of urgent or threatening messages: Scammers often use panic (e.g., "Your account will be blocked!") to make you act without thinking. Always pause and verify independently.
+
+Don't click on unverified links: Whether it's an SMS about a delayed package or an email claiming you won a prize, never click suspicious links.
+
+Keep your software updated: Regularly update your phone's OS, banking apps, and antivirus software to patch known security vulnerabilities.
+
+Limit personal information on social media: Avoid oversharing your hostel room number, daily routine, or phone number on public platforms where scammers can harvest it.
+
+Official Reporting Channels:
+If you are a victim of cybercrime, report it immediately:
+
+National Cyber Crime Reporting Portal: www.cybercrime.gov.in
+
+Cyber Crime Helpline Number: Call 1930 (available 24x7).

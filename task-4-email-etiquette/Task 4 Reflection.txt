@@ -1,0 +1,11 @@
+Task 4 Reflection: Digital Communication
+
+One major problem I have noticed in digital communication is how easily tone can
+be misinterpreted in text-based messages. For example, during a recent college
+hackathon, quick, fragmented messages sent in our team group chat came across
+as overly blunt, leading to a brief moment of unnecessary friction. Because we
+were rushing to build our project, we lost the polite framing that usually softens
+face-to-face feedback. This experience highlighted why taking the time to write
+well-structured, professional emails is crucial when making requests to professors
+or recruiters. Recognizing the limits of instant messaging and actively choosing the
+right platform and tone is essential for effective digital collaboration.

@@ -1,0 +1,11 @@
+Task 3 Reflection: Coding & Collaboration Platforms
+
+For Task 3, I explored coding and collaboration platforms by using HackerRank
+and Google Workspace. On HackerRank, I completed the beginner-level 'Solve Me
+First' Python challenge. This allowed me to practice basic syntax and understand
+how automated testing environments evaluate outputs. For the collaboration
+aspect, I used Google Forms to build a 5-question 'Digital Literacy Awareness Quiz'
+covering topics like 2FA and professional email etiquette. I also linked the form to
+a Google Sheet to automatically collect responses. These tools will be highly
+beneficial academically to gather survey data for group presentations or track
+project data efficiently.
